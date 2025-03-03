@@ -5,7 +5,7 @@
 #include <stdio.h>
 
 int main() {
-    int n = 29;
+    int n = 20;
 
     int cnt = 0;
 
