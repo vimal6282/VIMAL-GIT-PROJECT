@@ -3,6 +3,7 @@
 //  Simple Trial Division
 #include <stdbool.h>
 #include <stdio.h>
+dont merge it
 
 int main() {
     int n = 20;
